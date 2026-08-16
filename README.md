@@ -19,6 +19,7 @@ Flutterで開発中の、ダンス練習を支援するモバイルアプリで�
 ## 画面イメージ
 
 ![メイン画面](images/main_image.png)
+![録画一覧画面](images/rokuga_ichiran.png)
 
 ## 画面構成
 
