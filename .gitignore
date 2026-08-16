@@ -51,3 +51,6 @@ app.*.map.json
 
 # Android build output
 /android/build/
+
+# Allow portfolio demo video
+!/videos/dance_pose_demo.mp4
